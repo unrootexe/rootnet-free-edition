@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "free-edition",
+    "name": "rootNET Free Edition",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://rootnet.dev/",
+    "updateUrl": "",
+    "authorList": ["iZac#2346"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
